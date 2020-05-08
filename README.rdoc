@@ -1,1 +1,2 @@
 Projeto de Agenda simples utilizando ruby on rails.
+Utilizando banco de dados mysql.
